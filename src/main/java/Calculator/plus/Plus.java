@@ -15,10 +15,7 @@ public class Plus {
 
 
 
-
-
-
-
+        return 1;
 
 
     }

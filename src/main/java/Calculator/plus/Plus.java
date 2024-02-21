@@ -14,7 +14,7 @@ public class Plus {
         int secondNum = sc.nextInt();
 
 
-        return firstNum + secondNum;
+
 
 
 
